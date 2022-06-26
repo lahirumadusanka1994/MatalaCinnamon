@@ -51,10 +51,22 @@
             <div class="row">
                <!-- <div class="col-md-12 ">  -->
                  <!--  <div class="text-bg">  -->
-                     
-                     <video autoplay muted loop id="myVideo">
-                         <source src="./images/mathala-3.mp4" type="video/mp4">
-                      </video>
+
+                <div style="height: 90vh;width: 100%;" id="myVideo" data-property="{videoURL:'ihJO799Qt2o',containment:'body',autoPlay:true, mute:true, startAt:0,opacity:1}">
+                    <!--                         <source src="./images/mathala-3.mp4" type="video/mp4">-->
+                    <!--                         <a class="player"-->
+                    <!--                            data-property="{videoURL:'YW2Aa4CJEgY',containment:'body',autoPlay:true, mute:true, startAt:0,opacity:1}">-->
+                    <!--                             My video-->
+                    <!--                         </a>-->
+                </div>
+
+                <div id="myVideoVideo" data-property="{videoURL:'ihJO799Qt2o',containment:'#myVideo',autoPlay:true, loop:true, showControls:false, mute:true, startAt:0,opacity:1}">
+                    <!--                         <source src="./images/mathala-3.mp4" type="video/mp4">-->
+                    <!--                         <a class="player"-->
+                    <!--                            data-property="{videoURL:'YW2Aa4CJEgY',containment:'body',autoPlay:true, mute:true, startAt:0,opacity:1}">-->
+                    <!--                             My video-->
+                    <!--                         </a>-->
+                </div>
                       <h1 class="content" id="banner-name"> <b>MATALA CINNAMON</b></h1>
                 
              <!--  </div> -->
@@ -342,6 +354,18 @@
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
+
+      <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>-->
+      <script src="js/jquery.mb.YTPlayer.min.js"></script>
+      <script src="js/apikey.js"></script>
+      <script>
+          $(document).ready(function () {
+              jQuery("#myVideoVideo").mb_YTPlayer();
+          })
+          $(function(){
+
+          });
+      </script>
    </body>
 </html>
 

@@ -25,3 +25,6 @@
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+
+<link rel="stylesheet" href="css/jquery.mb.YTPlayer.min.css" />
+<!--<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>-->
