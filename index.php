@@ -52,7 +52,7 @@
                <!-- <div class="col-md-12 ">  -->
                  <!--  <div class="text-bg">  -->
 
-                <div style="height: 90vh;width: 100%;" id="myVideo" data-property="{videoURL:'ihJO799Qt2o',containment:'body',autoPlay:true, mute:true, startAt:0,opacity:1}">
+                <div style="height: 90vh;width: 100%;" id="myVideo" >
                     <!--                         <source src="./images/mathala-3.mp4" type="video/mp4">-->
                     <!--                         <a class="player"-->
                     <!--                            data-property="{videoURL:'YW2Aa4CJEgY',containment:'body',autoPlay:true, mute:true, startAt:0,opacity:1}">-->
