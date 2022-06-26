@@ -68,7 +68,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+h8 {
      letter-spacing: 0;
      font-weight: normal;
      position: relative;
@@ -104,6 +105,14 @@ h5 {
 
 h6 {
      font-size: 13px
+}
+
+h7{ 
+     color: #ffffff;
+     font-size: 18px
+}
+h8{
+     font-size: 24px;
 }
 
 *,
@@ -1080,7 +1089,7 @@ ul.link li a::after {
      margin-top: 70px;
 }
 
-@media screen and (max-width:767px){
+@media screen and (max-width:400px){
 	/*  .banner_main {
           min-height: 800px;
           margin-top: 250px;
@@ -1091,34 +1100,67 @@ ul.link li a::after {
           margin-top: -350px;
      } */
 
+     .about{
+
+          background :url(../images/background1.jpg);
+          
+         
+     }
+     h7{
+          
+          color:#111111;
+     }
+
+    
+
+    h8{
+
+     font-size: 28px;
+     color:#ffffff
+    }
+      
+    
      .three_box {
-          margin-top: -45px;
+          margin-top: -25px;
+     }
+
+     .two  {
+          margin-top: -35px;
+          margin-bottom: 380px;     
      }
 
      .three  {
-          margin-top: 420px;
-          margin-bottom: -30px;
-         
+          margin-top: 25px;
+          margin-bottom: 10px;     
      }
 
      .four  {
           margin-top: -420px;
-          margin-bottom: 100px;
+          margin-bottom: 450px;
+     }
+     
+     .five{
+          margin-top: -420px;
+          margin-bottom: 400px;
+     }
+     .six{
+          margin-top: -430px;
+          margin-bottom: 10px;
      }
 
      .seven  {
-          margin-top: 420px;
-          margin-bottom: -130px;
-         
+          margin-top: 10px;
+          margin-bottom: -450px;   
      }
 
      .eight  {
-          margin-top: -420px;
-          margin-bottom: 200px;
+          margin-top: -370px;
+          margin-bottom: 10px;
      }
 
      #myVideo {
-          margin-top: 45px;
+          margin-top: -150px;
+     
           position: relative;
           z-index: 0;
           right: 0;
@@ -1127,7 +1169,16 @@ ul.link li a::after {
           overflow: hidden;
       }
 
-      
+      #myCarousel{
+          width: 100%; 
+          margin: auto;
+          position:relative;
+      }
+
+      #titlepage{
+          text-align: center;
+      }
+
       
       
     /*   
@@ -1159,6 +1210,7 @@ ul.link li a::after {
        #banner-name {
            font-size: 20px;
       } 
+      
 
      
 }

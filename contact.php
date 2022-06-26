@@ -63,7 +63,7 @@
                <b>Chairman: Sameera Udayanga Kumara <br>
                Owner of the  SAMEERA CONSTRUCTION <br>
                Contact: +94766265285<br>
-               E mail: sameerauk1988@gmail.com<br>
+               E mail: sameera@matalacinnamon.com<br>
               </div>
             </div>
             <div class="row">
@@ -72,8 +72,8 @@
               </div>
               <div class="col-md-6 about_contact">
               <b>Manager: Lahiru Fernando <br>
-              Contact: +94713347205<br>
-               E mail: mlahiru113@gmail.com
+              Contact: +94758371735<br>
+               E mail: lahiru@matalacinnamon.com
               </div>
             </div>
          </div>
@@ -83,8 +83,8 @@
          <div class="col-md-6 about_contact">
               <b>Address: SANDALI CEYLON (PVT) LTD <br>
               13/1, Mathalapitiya,<br> Walawela, Matale.<br> Post code: 21056
-              Contact: +94713347205 / +94766265285<<br>
-               E mail: mlahiru113@gmail.com
+              Contact: +94758371735 / +94766265285<<br>
+               E mail: contact@matalacinnamon.com
                </div>   
                </div> 
       </div>

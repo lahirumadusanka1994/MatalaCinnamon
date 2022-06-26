@@ -7,8 +7,8 @@
                   <div class="col-md-3 ">
                      <ul class="location_icon">
                         <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i></a> No 13/1,Mathalapitpya,<br> Walawela,Matale.</li>
-                        <li><a href="#"><i class="fa fa-volume-control-phone" aria-hidden="true"></i></a> +94713347205<br>  +94766265285</li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>mlahiru113@gmail.com / sameerauk1988@gmail.com</li>
+                        <li><a href="#"><i class="fa fa-volume-control-phone" aria-hidden="true"></i></a> +94758371735<br>  +94766265285</li>
+                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>lahiru@matalacinnamon.com / sameera@matalacinnamon.com</li>
                      </ul>
                   </div>
                   

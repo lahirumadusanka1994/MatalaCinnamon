@@ -56,27 +56,31 @@
             </div>
          </div>
          <div class="container">
+
+
             <div class="row">
-               
-               
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 padding_left0 one">
                   <div class="product_box">
                      <figure><img src="images/product2.png" alt="#"/></figure>
                      <h2> Matala cinnamon powder pack</h2>
                   </div>
                </div>
+
                <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 padding_left0 two">
                   <div class="text">
                      <h4> Matala cinnamon powder pack</h4>
                   </div>
                </div>
             </div>
+            
+
             <div class="row">
                <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 padding_left0 three">
                   <div class="text">
-                  <h4> Matala cinnamon powder pack< </h4>
+                  <h4> Matala cinnamon powder pack </h4>
                   </div>
                </div>
+
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 padding_right10 four">
                   <div class="product_box">
                      <figure><img src="images/product3.png" alt="#"/></figure>
@@ -84,6 +88,7 @@
                   </div>
                </div>
             </div>
+
             <div class="row">
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 padding_left0 five">
                   <div class="product_box">
@@ -97,6 +102,7 @@
                   </div>
                </div>
             </div>
+
                <div class="row">
                   <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 padding_left0 seven">
                      <div class="text">

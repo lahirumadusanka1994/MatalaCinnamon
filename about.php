@@ -62,12 +62,14 @@
               <img src="images/logo.png" alt="#"/>
               </div>
               <div class="col-md-8 about_contact">
-              <p><b><h3>Matala Cinnamon is a subsidiary of Sandali Ceylon Pvt Ltd, which exports 100% organic cinnamon to Sri Lanka. 
+                <div class="textabout">
+              <p><b><h7>Matala Cinnamon is a subsidiary of Sandali Ceylon Pvt Ltd, which exports 100% organic cinnamon to Sri Lanka. 
               Currently Sandali Ceylon Pvt Ltd has several businesses.The main objective of this company is to introduce the highest quality cinnamon
                in Sri Lanka to the world under the Matala Cinnamon brand. Launched in 2022, Sandali Ceylon Pvt Ltd currently owns a large area of cinnamon plantations.
                Sandali Ceylon is a Pvt Ltd registered business in Sri Lanka under Company No PV 00252812. It is our intention to export 100% organic cinnamon grown in the Central Highlands of Sri Lanka in a very clean manner.
                Our vision is to be the best spice exporter in the island in the future by providing excellent customer service. We are currently looking to launch four products under the Matala Cinnamon brand.
-               We also hope to export cinnamon in bulk in Sri Lanka in the future.<br><p></h3>
+               We also hope to export cinnamon in bulk in Sri Lanka in the future.<br><p></h7>
+               </div>
               </div>
             </div>
              <div class="row">
