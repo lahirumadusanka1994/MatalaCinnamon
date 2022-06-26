@@ -70,14 +70,16 @@ h4,
 h5,
 h6,
 h8 {
+
+    
      letter-spacing: 0;
      font-weight: normal;
-     position: relative;
+     
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: normal;
      color: #111111;
-     margin: 0
+     
 }
 
 h1 {
@@ -112,7 +114,14 @@ h7{
      font-size: 18px
 }
 h8{
-     font-size: 24px;
+     font-size: 80px;
+     color: #ffffff;
+     opacity: 1;
+     font-weight: bold;
+    
+     margin-top: 100px;
+     margin-bottom: 10px;
+
 }
 
 *,
@@ -401,7 +410,7 @@ ul.btn li:last-child {
 
  .content {
     position: relative; 
-     top: -500px;
+     top: -400px;
     justify-content: center;
     align-items: center;
     align-content: center; 
