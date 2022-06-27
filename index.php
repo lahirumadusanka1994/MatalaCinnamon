@@ -67,7 +67,7 @@
                     <!--                             My video-->
                     <!--                         </a>-->
                 </div>
-                      <h1 class="content" id="banner-name"> <b>MATALA CINNAMON</b></h1>
+                      <h1 class="content" id="banner-name"> <b><h8>MATALA CINNAMON</h8></b></h1>
                 
              <!--  </div> -->
                <!-- </div>  -->
@@ -104,7 +104,7 @@
             <div class="row d_flex">
                <div class="col-md-5">
                   <div class="titlepage">
-                     <h2>Ceylon Cinnomon <br> the best Cinnomon in the World</h2>
+                     <h2>Ceylon Cinnamon <br> the best Cinnamon in the World</h2>
                   </div>
                </div>
                <div class="col-md-7">
@@ -211,6 +211,11 @@
                         <li data-target="#myCarousel" data-slide-to="6"></li>
                         <li data-target="#myCarousel" data-slide-to="7"></li>
                         <li data-target="#myCarousel" data-slide-to="8"></li>
+                        <li data-target="#myCarousel" data-slide-to="9"></li>
+                        <li data-target="#myCarousel" data-slide-to="10"></li>
+                        <li data-target="#myCarousel" data-slide-to="11"></li>
+                        <li data-target="#myCarousel" data-slide-to="12"></li>
+                        <li data-target="#myCarousel" data-slide-to="13"></li>
                      </ol>
                      <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -327,7 +332,79 @@
                               </div>
                            </div>
                         </div>
+
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-md-12">
+                                       <div class="test_box">
+                                       <img src="images/slide-9.jpg" alt="#"/>
+                                          
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-md-12">
+                                       <div class="test_box">
+                                       <img src="images/slide-10.jpg" alt="#"/>
+                                          
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-md-12">
+                                       <div class="test_box">
+                                       <img src="images/slide-11.jpg" alt="#"/>
+                                          
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-md-12">
+                                       <div class="test_box">
+                                       <img src="images/slide-12.jpg" alt="#"/>
+                                          
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="carousel-item">
+                           <div class="container">
+                              <div class="carousel-caption">
+                                 <div class="row">
+                                    <div class="col-md-12">
+                                       <div class="test_box">
+                                       <img src="images/slide-13.jpg" alt="#"/>
+                                          
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
                      </div>
+                     
                      <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                      <span class="sr-only">Previous</span>
