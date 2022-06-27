@@ -1098,7 +1098,7 @@ ul.link li a::after {
      margin-top: 70px;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:770px){
 	/*  .banner_main {
           min-height: 800px;
           margin-top: 250px;
