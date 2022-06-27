@@ -543,7 +543,10 @@ ul.btn li:last-child {
 
 
 /** end three_box section **/
-
+.container-fluid{
+     text-align: justify;
+  text-justify: inter-word;
+}
 
 /** hottest section **/
 

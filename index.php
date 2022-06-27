@@ -158,7 +158,7 @@
                               <i><img src="images/icon3.png" alt="#"/></i>
                               <div class="choose_text">
                                  <h3>Quality Product</h3>
-                                 <p>We can give you cinnamon in the form of very pure processed cinnamon tubes or powder.</p>
+                                 <p>We can give you cinnamon in the form of very pure processed cinnamon tubes or powder according to your choice.</p>
                               </div>
                            </div>
                         </div>
