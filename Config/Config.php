@@ -6,7 +6,6 @@ define('SITE_ROOT',$_SERVER['DOCUMENT_ROOT'] .'/'.SUB_DIRECTORY.'/');
 
 define('CONFIG_DIR',$_SERVER['DOCUMENT_ROOT'] .SUB_DIRECTORY. '/Config/');
 
-
 // Db Credentials
 // live
 define('DB_HOST','localhost');

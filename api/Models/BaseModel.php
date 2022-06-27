@@ -33,7 +33,7 @@ class BaseModel
             $sql = $data;
         }
         try{
-            echo $sql;
+          //  echo $sql;
            $insert = $this->con->query($sql);
            return $this->con->insert_id;
         }catch (Exception $e){
