@@ -27,28 +27,28 @@
                         <h3>Contact Us</h3>
                         <div class="row">
                             <div class="col-md-6">
-                            <input class="form-control" placeholder="Full Name" type="text" name="Full Name">
+                            <input class="form-control fullnameInput" placeholder="Full Name" type="text" name="Full Name">
                             </div>
                             <div class="col-md-6">
-                            <input class="form-control" placeholder="Phone " type="text" name="Full Name">
-                            </div>
-                        </div><br>
-                        <div class="row">
-                            <div class="col-md-6">
-                            <input class="form-control" placeholder="Enter Your Email" type="text" name="Full Name">
-                            </div>
-                            <div class="col-md-6">
-                            <input class="form-control" placeholder="Country" type="text" name="Full Name">
+                            <input class="form-control phoneInput" placeholder="Phone " type="text" name="Full Name">
                             </div>
                         </div><br>
                         <div class="row">
                             <div class="col-md-6">
-                            <textarea  class="form-control" placeholder="Message" type="textarea" name="Full Name"></textarea>
+                            <input class="form-control emailInput" placeholder="Enter Your Email" type="text" name="Full Name">
+                            </div>
+                            <div class="col-md-6">
+                            <input class="form-control countryInput" placeholder="Country" type="text" name="Full Name">
+                            </div>
+                        </div><br>
+                        <div class="row">
+                            <div class="col-md-6">
+                            <textarea  class="form-control messageInput" placeholder="Message" type="textarea" name="Full Name"></textarea>
                             </div>
                         </div>
                      
                         
-                        <button class="sub_btn">send a message</button>
+                        <button class="sub_btn">send message</button>
                        
                         
                      </form>

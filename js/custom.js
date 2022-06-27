@@ -58,5 +58,52 @@ $(function () {
 		interval: 5000
 	});
 
+	$(document).on('click','.sub_btn',function (e) {
+		e.preventDefault();
+		var name = $('.fullnameInput').val();
+		var email = $('.emailInput').val();
+		var message = $('.messageInput').val();
+		var phone = $('.phoneInput').val();
+		var country = $('.countryInput').val();
+		$('.sub_btn').addClass('disabled').attr('disabled','disabled').html('Sending...');
+		sendEmail(name,email,phone,country,message);
+	})
 
 });
+
+function sendEmail(name,email,phone,country,message) {
+	$.ajax({
+		url:'api/v1/sendContactForm.php',
+		method:'POST',
+		dataType:'json',
+		data:{
+			body:message,
+			email:email,
+			country:country,
+			phone:phone,
+			name:name
+		},
+		success(response){
+			if(response.ID == 200){
+				Swal.fire(
+					'Success!',
+					'Message was sent successfully!',
+					'success'
+				);
+				$('.fullnameInput').val('');
+				$('.emailInput').val('');
+				$('.messageInput').val('');
+				$('.phoneInput').val('');
+				$('.countryInput').val('');
+
+			}else{
+				Swal.fire(
+					'Error!',
+					'Your message was not sent.!',
+					'danger'
+				)
+			}
+			$('.sub_btn').removeClass('disabled').removeAttr('disabled').html('Send Message');
+		}
+	})
+}

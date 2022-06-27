@@ -430,11 +430,12 @@
       <script src="js/jquery-3.0.0.min.js"></script>
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+      <script src="js/jquery.mb.YTPlayer.min.js"></script>
+      <script src="js/apikey.js"></script>
       <script src="js/custom.js"></script>
 
       <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>-->
-      <script src="js/jquery.mb.YTPlayer.min.js"></script>
-      <script src="js/apikey.js"></script>
       <script>
           $(document).ready(function () {
               jQuery("#myVideoVideo").mb_YTPlayer();
