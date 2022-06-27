@@ -202,8 +202,8 @@
                <div class="col-md-12">
                   <div id="myCarousel" class="carousel slide about_Carousel " data-ride="carousel">
                      <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1" ></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
                         <li data-target="#myCarousel" data-slide-to="3"></li>
                         <li data-target="#myCarousel" data-slide-to="4"></li>
@@ -339,7 +339,7 @@
                                  <div class="row">
                                     <div class="col-md-12">
                                        <div class="test_box">
-                                       <img src="images/slide-9.jpg" alt="#"/>
+                                       <img src="images/slide-9.jpeg" alt="#"/>
                                           
                                        </div>
                                     </div>
@@ -353,7 +353,7 @@
                                  <div class="row">
                                     <div class="col-md-12">
                                        <div class="test_box">
-                                       <img src="images/slide-10.jpg" alt="#"/>
+                                       <img src="images/slide-10.jpeg" alt="#"/>
                                           
                                        </div>
                                     </div>
@@ -367,7 +367,7 @@
                                  <div class="row">
                                     <div class="col-md-12">
                                        <div class="test_box">
-                                       <img src="images/slide-11.jpg" alt="#"/>
+                                       <img src="images/slide-11.jpeg" alt="#"/>
                                           
                                        </div>
                                     </div>
@@ -381,7 +381,7 @@
                                  <div class="row">
                                     <div class="col-md-12">
                                        <div class="test_box">
-                                       <img src="images/slide-12.jpg" alt="#"/>
+                                       <img src="images/slide-12.jpeg" alt="#"/>
                                           
                                        </div>
                                     </div>
@@ -395,7 +395,7 @@
                                  <div class="row">
                                     <div class="col-md-12">
                                        <div class="test_box">
-                                       <img src="images/slide-13.jpg" alt="#"/>
+                                       <img src="images/slide-13.jpeg" alt="#"/>
                                           
                                        </div>
                                     </div>

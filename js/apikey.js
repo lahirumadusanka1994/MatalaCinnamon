@@ -6,4 +6,4 @@
  * https://console.developers.google.com/
  ******************************************************************************/
 
-//jQuery.mbYTPlayer.apiKey = "AIzaSyCAHzbOtNhiLEU4RWxIKmyfcxUDDO_tzW0";
+jQuery.mbYTPlayer.apiKey = "AIzaSyCAHzbOtNhiLEU4RWxIKmyfcxUDDO_tzW0";

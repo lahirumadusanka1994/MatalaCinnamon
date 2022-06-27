@@ -83,7 +83,7 @@ function sendEmail(name,email,phone,country,message) {
 			phone:phone,
 			name:name
 		},
-		success(response){
+		success:function(response){
 			if(response.ID == 200){
 				Swal.fire(
 					'Success!',
@@ -104,6 +104,18 @@ function sendEmail(name,email,phone,country,message) {
 				)
 			}
 			$('.sub_btn').removeClass('disabled').removeAttr('disabled').html('Send Message');
+		},
+		error : function(){
+			Swal.fire(
+				'Error!',
+				'Your message was not sent.!',
+				'danger'
+			)
+			$('.sub_btn').removeClass('disabled').removeAttr('disabled').html('Send Message');
+		},
+		complete: function(res){
+			$('.sub_btn').removeClass('disabled').removeAttr('disabled').html('Send Message');
 		}
+
 	})
 }
