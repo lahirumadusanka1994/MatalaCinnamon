@@ -8,18 +8,18 @@
                      <ul class="location_icon">
                         <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i></a> No 13/1,Mathalapitpya,<br> Walawela,Matale.</li>
                         <li><a href="#"><i class="fa fa-volume-control-phone" aria-hidden="true"></i></a> +94758371735<br>  +94766265285</li>
-                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>lahiru@matalacinnamon.com / sameera@matalacinnamon.com</li>
+                        <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i></a>contact@matalacinnamon.com</li>
                      </ul>
                   </div>
                   
                   <div class="col-md-2 ">
                      <h3>Menus</h3>
                      <ul class="link">
-                        <li><a href="index.html">Home</a></li>                             
-                        <li><a href="about.html">About</a></li>                                                     
-                        <li><a href="products.html">Products</a></li>                             
+                        <li><a href="index.php">Home</a></li>                             
+                        <li><a href="about.php">About</a></li>                                                     
+                        <li><a href="products.php">Products</a></li>                             
                         
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                      </ul>
                   </div>
                   <div class="col-md-7">

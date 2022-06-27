@@ -124,7 +124,7 @@
             <div class="row">
                <div class="col-md-8">
                   <div class="titlepage">
-                     <h2>Why you are choosing best cinnomon? </h2>
+                     <h2>Why you should choose Matalacinnamon? </h2>
                      <p>If you want to buy high quality Ceylon Cinnomon from Ceylon You have to choose MATHALA CINNAMON  </p>
                   </div>
                </div>
