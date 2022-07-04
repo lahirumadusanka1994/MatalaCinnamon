@@ -63,12 +63,12 @@
               </div>
               <div class="col-md-8 about_contact">
                 <div class="textabout">
-              <p><b><h7>Matala Cinnamon is a subsidiary of Sandali Ceylon Pvt Ltd, which exports 100% organic cinnamon to Sri Lanka. 
-              Currently Sandali Ceylon Pvt Ltd has several businesses.The main objective of this company is to introduce the highest quality cinnamon
-               in Sri Lanka to the world under the Matala Cinnamon brand. Launched in 2022, Sandali Ceylon Pvt Ltd currently owns a large area of cinnamon plantations.
-               Sandali Ceylon is a Pvt Ltd registered business in Sri Lanka under Company No PV 00252812. It is our intention to export 100% organic cinnamon grown in the Central Highlands of Sri Lanka in a very clean manner.
-               Our vision is to be the best spice exporter in the island in the future by providing excellent customer service. We are currently looking to launch four products under the Matala Cinnamon brand.
-               We also hope to export cinnamon in bulk in Sri Lanka in the future.<br><p></h7>
+              <p><b><h7>Matala Cinnamon is a subsidiary of Sandali Ceylon Pvt (Ltd), which exports 100% organic cinnamon to the world from Sri Lanka. 
+              The main objective of the company is to introduce the high quality cinnamon in Sri lanka to the world under the brand name of Matala Cinnamon.
+              Sadali Ceylon Pvt (Ltd) is a registerd company in Sri lanka under company no 00252812. Our intention is to export 100% pure organic cinnamon grown 
+              in the central highlands of Sri Lanka in an athical manner. Our vision is to be the best spice exporter in the island by providing excellent customer service.
+              We will be launching several products, other than cinnamon quills, under the Matala Cinnamon brand in near future. We are capable of exporting cinnamon quills in
+              built as per your request.<br><p></h7>
                </div>
               </div>
             </div>

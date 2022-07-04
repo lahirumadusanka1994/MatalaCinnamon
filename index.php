@@ -33,6 +33,9 @@
         <a class="nav-link" href="about.php">About US </a>
       </li>
       <li class="nav-item ">
+        <a class="nav-link" href="blog.php">Blog </a>
+      </li>
+      <li class="nav-item ">
         <a class="nav-link" href="contact.php">Contact Us </a>
       </li>
       
@@ -104,7 +107,7 @@
             <div class="row d_flex">
                <div class="col-md-5">
                   <div class="titlepage">
-                     <h2>Ceylon Cinnamon <br> the best Cinnamon in the World</h2>
+                     <h2><b>CEYLON CINNAMON <br> THE BEST CINNAMON IN THE WORLD</b></h2>
                   </div>
                </div>
                <div class="col-md-7">
@@ -124,8 +127,9 @@
             <div class="row">
                <div class="col-md-8">
                   <div class="titlepage">
-                     <h2>Why you should choose Matalacinnamon? </h2>
-                     <p>If you want to buy high quality Ceylon Cinnomon from Ceylon You have to choose MATHALA CINNAMON  </p>
+                     <h2>Why you should choose Matala cinnamon? </h2>
+                     <p>If you want high quality Ceylon Cinnomon it has to be MATHALA CINNAMON  
+                     <h3> Why? It is grown in ideal condition for cinnamon in Matale district of Srilanka by experianced farmers.</p>
                   </div>
                </div>
             </div>
@@ -140,7 +144,7 @@
                               <i><img src="images/icon1.png" alt="#"/></i>
                               <div class="choose_text">
                                  <h3>Excellent Service</h3>
-                                 <p>From the moment you choose mathala cinnamon we are always ready to serve you. Contact us to purchase cinnamon through a friendly service.</p>
+                                 <p>From the moment you choose mathala cinnamon we are always ready to serve you. Contact us to purchase cinnamon with friendly service.</p>
                               </div>
                            </div>
                         </div>
@@ -148,17 +152,18 @@
                            <div class="choose_box">
                               <i><img src="images/icon2.png" alt="#"/></i>
                               <div class="choose_text">
-                                 <h3>Clean Working</h3>
-                                 <p>From the moment the cinnamon plant is grown, we provide you with 100% organic cinnamon dried as the end result without the use of chemical fertilizers and pesticides.</p>
+                                 <h3>Quality Product</h3>
+                                 <p>From the moment the cinnamon is grown to the end result which are dried cinnamon quills or powder we cerify that those products are 100% organic.</p>
                               </div>
                            </div>
                         </div>
-                        <div class="col-md-6 padding_bottom2">
+                  
+                        <div class="col-md-6">
                            <div class="choose_box">
-                              <i><img src="images/icon3.png" alt="#"/></i>
+                              <i><img src="images/icon4.png" alt="#"/></i>
                               <div class="choose_text">
-                                 <h3>Quality Product</h3>
-                                 <p>We can give you cinnamon in the form of very pure processed cinnamon tubes or powder according to your choice.</p>
+                                 <h3>Expert Farmer & Makers</h3>
+                                 <p>Our growers are very experienced in cinnamon cultivation with the knowledge handed down from the generation to generation. The unique method of processing and curing of cinnamon quills involve a combination of arts and still unique to Sri Lanka which our makers have in abundance.</p>
                               </div>
                            </div>
                         </div>
@@ -166,8 +171,8 @@
                            <div class="choose_box">
                               <i><img src="images/icon4.png" alt="#"/></i>
                               <div class="choose_text">
-                                 <h3>Expert Farmer & Makers</h3>
-                                 <p>We provide you with Cinnamon, Experienced Cinnamon makers, which is grown by planters with high experience in cinnamon cultivation.</p>
+                                 <h3>Supporting the community</h3>
+                                 <p> Our work force is selected from low income families. Therefore by purchasing the products you are supporting to uplift the living standards of poorest of the poor families in Sri lanka.</p>
                               </div>
                            </div>
                         </div>
@@ -194,7 +199,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Working process </h2>
+                     <h2>Journey through our cultivation to your hands</h2>
                   </div>
                </div>
             </div>
